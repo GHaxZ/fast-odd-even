@@ -1,4 +1,4 @@
-# ⚡💪 is-odd-even 💪⚡
+# ⚡💪 fast-odd-even 💪⚡
 
 Are you tired of having to use separate packages like [is-odd](https://www.npmjs.com/package/is-odd) or [is-even](https://www.npmjs.com/package/is-even) to check, if a number is **odd** or **even**? Are you tired of these 🐌 **slow-performing** 🐌 dependencies?
 
@@ -19,7 +19,7 @@ npm install is-odd-even
 🏃 **Getting started** 🏃 is easy!
 
 ```javascript
-const { isOdd, isEven } = require("is-odd-even");
+const { isOdd, isEven } = require("fast-odd-even");
 
 isOdd(5);
 // true
