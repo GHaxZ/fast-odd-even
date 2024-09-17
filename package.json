@@ -1,0 +1,22 @@
+{
+  "name": "is-odd-even",
+  "version": "1.0.0",
+  "description": "Is this odd or even, but it is *blazingly* fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blazingly",
+    "fast",
+    "is",
+    "even",
+    "odd",
+    "math",
+    "integer",
+    "numeric",
+    "string"
+  ],
+  "author": "GHaxZ",
+  "license": "MIT"
+}
