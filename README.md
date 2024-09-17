@@ -11,7 +11,7 @@ This package provides you with separate functions‚ `isOdd()` and `isEven()`, w
 You can install this 💫 **amazing** 💫 tool using our _favourite package manager_ 🤩 **npm** 🤩
 
 ```bash
-npm install is-odd-even
+npm install fast-odd-even
 ```
 
 ## Usage/Examples
